@@ -3,7 +3,7 @@
 The code examples in this directory are from the book:
 Learn Functional Programming with Elixir by Ulisses Almeida
 
-image::https://imagery.pragprog.com/products/500/cdc-elixir.jpg?1489588161[Front cover of Learn Functional Programming with Elixir]
+image::https://imagery.pragprog.com/products/500/cdc-elixir.jpg[Front cover of Learn Functional Programming with Elixir]
 
 Visit https://pragprog.com/book/cdc-elixir/learn-functional-programming-with-elixir
 for more information about the book.

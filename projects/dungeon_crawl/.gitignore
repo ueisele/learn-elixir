@@ -25,3 +25,7 @@ dungeon_crawl-*.tar
 # Visual Studio Code
 /.vscode/
 /.elixir_ls/
+
+# IntelliJ
+*.iml
+/.idea/
